@@ -3,6 +3,12 @@ Collection of tips/browser extensions/... to help 'unhack' from attention snatch
 
 // todo: over the holidays
 
+## Intro
+
+// some kind of short preamble - stuff is free - but your attention is the cost - blah blah blah
+// why do this
+// etc.
+
 ## Social Media
 
 ### YouTube
