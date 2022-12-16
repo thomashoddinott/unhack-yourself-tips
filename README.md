@@ -5,7 +5,7 @@ Collection of tips/browser extensions/... to help 'unhack' from attention snatch
 
 ## Intro
 
-// some kind of short preamble - stuff is free - but your attention is the cost - blah blah blah
+// some kind of short preamble - stuff is free - but your attention is the cost - blah blah blah - remember the good o' days...
 // why do this
 // etc.
 
