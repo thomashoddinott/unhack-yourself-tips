@@ -21,4 +21,9 @@ Collection of tips/browser extensions/... to help 'unhack' from attention snatch
 ### Facebook
 - bookmarks
 
+### Github!
+- bookmarks
+
+### Basically any social media with the concept of a feed / recommendation algo
+
 you get the idea... 
