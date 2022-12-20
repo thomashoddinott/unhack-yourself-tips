@@ -12,6 +12,12 @@ Collection of tips/browser extensions/... to help 'unhack' from attention snatch
 ## Social Media
 
 ### YouTube
+Browser: 
+- adblock plus 
+- unhook
+Mobile:
+- Brave browser
+
 - extensions
 - bookmarks
 
