@@ -13,7 +13,7 @@ If you just need IG messenger and are having a hard time kicking IG consider htt
 
 Separate phone (simless, connected to wifi) for work which I use to run pomodorro timer and other tasks
 
-In the office I keep my personal phone in my bag 
+In the office I keep my personal phone in my bag. At home I keep it out of sight - in another room or a cupboard where I can still hear it if it rings
 
 ## Laptop
 
@@ -33,8 +33,8 @@ Can also play YT videos as podcasts on your phone
 
 25 + 5
 
-Stand up every 25 minutes - do something completely different - prepare a quick salad, stretch, etc.
+Stand up every 25 minutes - do something completely different - lunch prep, stretch, bodyweight exercises etc.
 
-I still do this in the office but walk to a quiet corner and work through some Anki
+In the office but walk to a quiet corner and do some Anki reps
 
  
