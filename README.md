@@ -1,7 +1,7 @@
 # 🚧 WIP 🚧
 
 # unhack-yourself-tips
-Personal hacks and habits to stay unplugged from the matrix
+Personal hacks and habits to unplug
 
 ## Phone
 
